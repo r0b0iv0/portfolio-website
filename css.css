@@ -1,0 +1,44 @@
+body {
+    background-color: #5E49FD;
+    /*  */
+    /*  */
+    background-color: #42AFE3;
+    background-color: #49F3FD;
+    background-color: #5499FA;
+    margin: 0px;
+    
+}
+
+#navBar {
+    background-color: #425BE3;
+    height: 70px;
+    width: 100%;
+    margin: 0px;
+
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #425BE3;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 26px 52px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #14243B;
+  }
